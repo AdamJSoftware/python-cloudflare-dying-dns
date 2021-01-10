@@ -1,0 +1,8 @@
+config.json
+log.txt
+bin/
+include/
+lib/
+lib64/
+share/
+lib64
