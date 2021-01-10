@@ -28,9 +28,10 @@ Zone identifier is found in the domain/zone dashboard (usually bottom right corn
 
 # To install and run:
 
-1. pip install -r requirements.txt
-2. source ./bin/activate
-3. python3 cloudflare.py
+1. python3 -m venv ./
+2. source bin/activate
+3. pip install -r requirements.txt
+4. python3 cloudflare.py
 
 # Recommended cron command
 
